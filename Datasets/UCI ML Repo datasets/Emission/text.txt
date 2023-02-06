@@ -1,1 +1,1 @@
-This dataset was used for the Gas Turbine emission regression exercise.
+Datasets for the Gas Turbine (GT) Emission linear regression exercise.
